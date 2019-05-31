@@ -1,0 +1,3 @@
+print("great new big ship");
+print("big ship type lineship");
+print("name "STALINGRAD");
