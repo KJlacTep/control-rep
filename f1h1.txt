@@ -1,0 +1,2 @@
+print("great a new high fighter");
+print("figher_name "Raptor"");
