@@ -1,0 +1,2 @@
+print("great new fighter");
+print("type light fighter l1");
