@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+print("great new fighter");
+print("type light fighter l1");
+=======
+print("great a new high fighter");
+print("figher_name "Raptor"");
+>>>>>>> new_fitch
